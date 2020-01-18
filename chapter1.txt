@@ -1,1 +1,1 @@
-This is the first chapter of my first book.
+This is the first chapter of my first book. I had to include this to test out the effectiveness of Git merging.
